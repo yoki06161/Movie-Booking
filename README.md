@@ -167,7 +167,7 @@ docker-compose up --build
 
 3. **DB (MySQL)**
    - JPA (Hibernate) 기반 CRUD & 쿼리 확인
-   - 
+
    - 인덱스, 트랜잭션, 락, Join 전략 등
 
 4. **Redis**
@@ -178,5 +178,6 @@ docker-compose up --build
 
 6. **Spring Security**
    - JWT 구조(헤더.Payload.서명) 이해 및 사용
+
    - SecurityFilterChain, OncePerRequestFilter 활용
 <br/>
