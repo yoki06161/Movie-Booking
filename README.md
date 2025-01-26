@@ -98,7 +98,7 @@ git clone https://github.com/yoki06161/movie-booking.git(예시)
 ./gradlew bootRun
 ```
 
-5. 정상 구동 후 http://localhost:8080 에서 서버 동작 확인
+5. 정상 구동 후 `http://localhost:8080` 에서 서버 동작 확인
 
 ### 5.2 Docker 환경에서 실행하기
 ```
