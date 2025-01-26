@@ -1,6 +1,6 @@
 # Movie Booking System
 
-Spring Boot + JPA + MySQL + Redis + JWT 인증을 사용한 간단한 영화 예매 시스템
+**Spring Boot + JPA + MySQL + Redis + JWT** 인증을 사용한 간단한 영화 예매 시스템
 <br/>
 
 
